@@ -1,2 +1,2 @@
 # DataAnalystProject
-This is my self data analyst project using Python
+This is my data analyst project using Python
